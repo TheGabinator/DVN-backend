@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(5, 5, 41);
+    color: rgb(176, 172, 172);
+}
+
+.body-class{
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+    padding-top: 15rem;
+    font-size: larger;
+}
